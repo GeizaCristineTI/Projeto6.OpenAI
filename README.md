@@ -1,4 +1,4 @@
-# README do Projeto: Assistente de IA
+## Assistente de IA
 
 ## Introdução
 
