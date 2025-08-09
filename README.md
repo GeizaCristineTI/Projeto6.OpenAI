@@ -1,4 +1,4 @@
-# 🤖 Assistente de IA
+# 🤖 Assistente de IA Google Gemini
 
 <div align="center">
 <img width="908" height="520" alt="Captura de tela 2025-08-09 005126" src="https://github.com/user-attachments/assets/dd14e7ac-e0db-4510-8ca5-84a34645eaa8" />
@@ -13,7 +13,7 @@
 
 ## 📝 Sobre o Projeto
 
-Este projeto é um assistente de IA simples, construído com HTML, CSS e JavaScript, que se integra à API Gemini. Ele serve como um exemplo prático de como criar uma interface de chat interativa para interagir com modelos de linguagem.
+Este projeto é um assistente de IA simples, construído com HTML, CSS e JavaScript, que se integra à API Google Gemini. Ele serve como um exemplo prático de como criar uma interface de chat interativa para interagir com modelos de linguagem.
 
 ---
 
